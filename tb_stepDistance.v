@@ -21,6 +21,8 @@
 
 
 module tb_stepDistance;
+    //X = step pulse
+    //ckk100MHz = clock of the board (fast clk)
 reg clk100MHz, reset, X;
 wire S1;
 wire [19:0] distance_val, count;
