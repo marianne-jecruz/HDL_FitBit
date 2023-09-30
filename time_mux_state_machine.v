@@ -62,7 +62,7 @@ module time_mux_state_machine(
             2'b10: an = 4'b1011;
             2'b11: an = 4'b0111;
         endcase
-
+        ///THIS NEEDS TO BE MODIFIED!!!!!
         case(state) //decimal point that will always be on
             2'b00: dp = 1;
             2'b01: dp = 1;
