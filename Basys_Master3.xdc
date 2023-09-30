@@ -16,14 +16,7 @@ set_property PACKAGE_PIN T2 [get_ports {sw_value[2]}]
 	set_property IOSTANDARD LVCMOS33 [get_ports {sw_value[2]}]
 set_property PACKAGE_PIN R3 [get_ports {sw_value[3]}]					
 	set_property IOSTANDARD LVCMOS33 [get_ports {sw_value[3]}]
-set_property PACKAGE_PIN W2 [get_ports {sw_value[4]}]					
-	set_property IOSTANDARD LVCMOS33 [get_ports {sw_value[4]}]
-set_property PACKAGE_PIN U1 [get_ports {sw_value[5]}]					
-	set_property IOSTANDARD LVCMOS33 [get_ports {sw_value[5]}]
-set_property PACKAGE_PIN T1 [get_ports {sw_value[6]}]					
-	set_property IOSTANDARD LVCMOS33 [get_ports {sw_value[6]}]
-set_property PACKAGE_PIN R2 [get_ports {sw_value[7]}]					
-	set_property IOSTANDARD LVCMOS33 [get_ports {sw_value[7]}]
+
 
 
 	
