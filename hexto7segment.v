@@ -34,6 +34,6 @@ module hexto7segment (
 			4'b0111 : r= 7'b0001111; //7
 			4'b1000 : r= 7'b0000000; //8
 			4'b1001 : r= 7'b0001100; //9
-			//default : r= 7'b0001100; //9
+			default : r= 7'b0001100; //9
 		endcase
 endmodule
